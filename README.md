@@ -7,8 +7,8 @@
 <br/>
 
 ## 📁 데이터
-공공데이터포털: <https://www.data.go.kr/>
-중앙선거관리위원회 국가선거정보개방포털시스템: <https://www.data.go.kr/>
+1. 공공데이터포털: <https://www.data.go.kr/> <br/>
+2. 중앙선거관리위원회 국가선거정보개방포털시스템: <https://www.data.go.kr/>
 
 ## 💻 주요 기능
 
