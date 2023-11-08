@@ -31,7 +31,7 @@
 
 - 프로젝트 파일을 다운로드 받습니다.
 ```
-git clone https://github.com/Jangsugyeong/election.git
+git clone https://github.com/brainofds/election.git
 ```
 - 프로젝트 경로에서 가상환경 설치 후 접속합니다. (Windows 10 기준)
 ```
